@@ -1,0 +1,22 @@
+*,
+html {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+header {
+  background-color: cadetblue;
+  display: flex;
+  justify-content: space-between;
+  padding: 16px;
+}
+
+.searchInput {
+  background-color: transparent;
+  padding: 8px 16px; /*atas bawah, kanan kiri*/
+  border: 1px solid black;
+  border-radius: 8px;
+}
+
+/* menit 20.49 */
