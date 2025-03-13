@@ -6,7 +6,7 @@ html {
 }
 
 header {
-  background-color: cadetblue;
+  background-color: cornflowerblue;
   display: flex;
   justify-content: space-between;
   padding: 16px;
@@ -60,7 +60,7 @@ header {
 
 #prev,
 #next {
-  background-color: cadetblue;
+  background-color: cornflowerblue;
   padding: 8px 16px;
   cursor: pointer;
   font-size: larger;
@@ -68,3 +68,8 @@ header {
 }
 
 /* menit 20.49 */
+
+#title {
+  font-size: x-large;
+  cursor: pointer;
+}
